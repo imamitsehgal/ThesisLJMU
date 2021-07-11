@@ -1,2 +1,2 @@
-,Country_Region,Incident_Rate,Case_Fatality_Ratio,Deaths,Recovered,Confirmed,record_date
-3210,India,0,0,3302,42309,106475,2020-05-19
+Country_Region,Incident_Rate,Case_Fatality_Ratio,Deaths,Recovered,Confirmed,record_date
+India,0,0,3302,42309,106475,2020-05-19
